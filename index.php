@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+		<title>Software Repository</title>
+
+        <meta charset="utf-8">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>      
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="theme-color" content="#2345F6">
+		
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="MalwareWatch Software Repository">
+		<meta property="og:description" content="Download free software from a reliable source. The password to every archive is mysubsarethebest.">
+		<meta property="og:url" content="https://dl.malwat.ch/">
+		<meta property="og:image" content="http://dl.malwarewatch.org/theme/images/favicon.png">
+		<meta property="og:image:secure_url" content="https://dl.malwarewatch.org/theme/images/favicon.png">
+		<meta property="og:image:width" content="256">
+		<meta property="og:image:height" content="256">
+		<meta property="og:image:alt" content="MalwareWatch.org">
+
+		<link rel="shortcut icon" href="https://dl.malwarewatch.org/theme/images/favicon.png"/>	
+        <link rel="stylesheet" href="https://dl.malwarewatch.org/theme/css/styles.css">
+
+		<script type="text/javascript" src="https://dl.malwarewatch.org/theme/js/config.js"></script>
+    </head>
+<body>
+    <div class="container">
+        <main>
+			<div class="friendly-header">
+					<div class="back-link">
+						<a href="https://iics.sch.id"><img src="https://dl.malwarewatch.org/theme/images/back.png" alt="Back" width=36px height=36px></a>
+					</div>
+			
+					<a href="/" class="logo"><img src="ipeka.png" class="web-logo" alt="PLACEHOLDER"></a>
+					<div class="friendly-desc">
+						<p class="web-repo">
+							Welcome! <b>A</b>.<br><br>
+						</p>
+						<p class="web-desc">
+							A <a href="https://iics.sch.id" class="blue">a</a>.
+							A
+						</p>
+
+						<div id="ratelimit-info">
+							<p class="web-desc">
+								Loading ratelimit information&hellip; <a class="blue" href="">Not loading?</a>
+							</p>
+						</div>
+					</div>
+			</div>
+			
+			<hr class="separator"/>
+			
+            <header>			
+                <div class="title">
+                    <h1>
+                        <span id="file-path">
+/</span></h1><p class="breadcrumbs"><a href="/">&#x1F3E0;</a></p></div><div class="search-box"><input type="text" id="search" placeholder="WIP&hellip;"></div></header>
+<div class="table-list"><table id="list"><thead><tr><th colspan="2"><a href="?C=N&amp;O=A">Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th><a href="?C=S&amp;O=A">Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td colspan="2" class="link"><a href="index.php" title="drivers">index.php</a></td><td class="size">-</td><td class="date">WIP</td></tr>
+<tr><td colspan="2" class="link"><a href="favicon.ico" title="ms-dos">favicon.ico/</a></td><td class="size">-</td><td class="date">WIP</td></tr>
+<tr><td colspan="2" class="link"><a href="favvicom.ico" title="multipurpose">favvicon.ico</a></td><td class="size">-</td><td class="date">WIP</td></tr>
+<tr><td colspan="2" class="link"><a href="bitnami.css" title="oshalved">bitnami.css/</a></td><td class="size">-</td><td class="date">WIP</td></tr>
+<tr><td colspan="2" class="link"><a href="applications.html" title="software">applications.html</a></td><td class="size">-</td><td class="date">WIP</td></tr>
+<tr><td colspan="2" class="link"><a href="xampp/" title="windows">xampp/</a></td><td class="size">-</td><td class="date">WIP</td></tr>
+<tr><td colspan="2" class="link"><a href="phpmyadmin/" title="phpmyadmin/">Admin </a></td><td class="size">-</td><td class="date">WIP</td></tr>
+</tbody></table></div>				<hr class="separator"/>
+
+				<footer>
+					<p>
+						<b>In testing!</b>
+						<br><br>
+						This website is <a href="" class="blue"><span class="__cf_email__" data-cfemail="">[email&#160;protected]</span></a><br>
+						XAMPP © 2023
+					</p>
+				</footer>
+			</main>
+		</div>
+	<script data-cfasync="false" src="https://dl.malwarewatch.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
